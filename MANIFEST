@@ -1,0 +1,15 @@
+ChangeLog
+MANIFEST
+Makefile
+Makefile.PL
+README
+lib/Games/Worms/Base.pm
+lib/Games/Worms/Beeler.pm
+lib/Games/Worms/Board.pm
+lib/Games/Worms/Node.pm
+lib/Games/Worms/Random.pm
+lib/Games/Worms/Seg.pm
+lib/Games/Worms/Tk.pm
+lib/Games/Worms/Tk/Board.pm
+lib/Games/Worms/Tk/Seg.pm
+test.pl
